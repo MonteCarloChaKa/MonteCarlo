@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=h\ k\ r
+comment0.target=MonteCarlo(double,\ double,\ double)
+comment1.params=
+comment1.target=double\ nextRainDrop_x()
+comment2.params=
+comment2.target=double\ nextRainDrop_y()
+comment3.params=x\ y
+comment3.target=boolean\ insideCirle(double,\ double)
+numComments=4
